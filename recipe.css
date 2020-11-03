@@ -1,0 +1,39 @@
+h1, h2{
+  color:#A4A400;
+  background-color: #f0f0f0;
+  font-family:Lucida Sans Unicode, Helvetica, Arial;
+  
+}
+
+h1{
+  text-align: center;
+  font-size: 22pt bold; 
+  border-bottom:2px solid #A4A400;
+  display: inline center;
+}
+h2{
+  text-align: left;
+  font-size: 18pt normal;
+  border-bottom:2px solid #A4A400;
+  display: inline;
+}
+body{
+  
+  background-color: white;
+  color: #404040;
+  font-size: 11pt;
+  font-family:Georgia, Garamond ;
+  
+}
+.black{
+  color: #A4A400;
+  display: inline;
+}
+
+.dark{
+  font-family: monospace;
+}
+.wave{
+  font-style: italic;
+  background-color: #FFFFA8;
+}
